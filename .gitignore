@@ -1,0 +1,9 @@
+*.txt
+*.pkl
+*.exe
+/dependencies
+/session/*.txt
+/session/*.pkl
+/output
+/venv
+/__pycache__
