@@ -26,7 +26,7 @@ venv\Scripts\activate.bat
 ```
 3. Install dependencies:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 4. Run the script for fun:
 ```bash
